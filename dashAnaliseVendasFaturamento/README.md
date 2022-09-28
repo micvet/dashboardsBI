@@ -1,4 +1,4 @@
-Dashboard criado para análise de vendas e faturamento da empresa X. Por meio do dashboard, temos a visão do faturamento e entrega de carga (KG) dentro de um determinado período. 
+Dashboard criado como forma de desafio, para análise de vendas e faturamento da empresa X. Por meio do dashboard, temos a visão do faturamento e entrega de carga (KG) dentro de um determinado período. 
 Também é possível filtrar pelo dia de hoje e a previsão do dia seguinte. 
 Podemos visualizar uma comparação entre as entregas atuais e a meta estabelecida pela empresa. 
 
