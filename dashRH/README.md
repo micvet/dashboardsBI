@@ -1,4 +1,4 @@
-Repositório criado para o dashboard desenvolvido durante treinamento da EmpowerDara.
+Repositório criado para o dashboard desenvolvido durante treinamento da EmpowerData.
 
 O objetivo foi, utilizando os dados de funcionários de uma empresa, construir um dashboard que retornasse informações sobre faixa de idade, gênero, faixa salarial, satisfação, entre outros.
 
