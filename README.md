@@ -1,7 +1,7 @@
 # dashboardsBI
 Repositório com meus dashboards criados por meio do Power BI
 
-1)<h3 align="left"> dashAnaliseVendasFaturamento </h3> 
+<h3 align="left"> 1) dashAnaliseVendasFaturamento </h3> 
 
 Dashboard criado e fundo criados por mim, por meio de dados extraídos de planilhas do Excel. Após filtragem e adequação dos dados, foi desenvolvido um dashboard que retorna as vendas, a quantidade de entrega de insumos (kg), retona o ticket médio, compara com as metas e inclui dois botões de filtro, que permitem ao usuário filtrar as métricas do dia e a previsão para o próximo dia.
 
