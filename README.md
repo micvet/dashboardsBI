@@ -8,7 +8,7 @@ Dashboard e background criados por mim, por meio de dados extraídos de planilha
 ![image](https://user-images.githubusercontent.com/86981990/192896050-a42a349a-b40c-4b35-90de-d54f7eb9e084.png)
 
 
-<h3 align="left"> 1) dashRH </h3>
+<h3 align="left"> 2) dashRH </h3>
 
 Dashboard criado durante o minucurso de Power Bi da EmpowerData..
 
@@ -21,6 +21,14 @@ Com o dashboard também é possível filtrar as informações por setor e ter um
 
 
 
-3)
+3) DashVendasLoja
+Dashboard de análise de vendas criado durante o treinamento da EmpowerData. 
+
+Com ele realizamos a análise de vendas de uma empresa de comércio de roupas e produtos de esporte., analisando a quantidade de vendas do período, faturamento ticket médio com a possibilidade de filtrar por item e por loja.
+
+![image](https://user-images.githubusercontent.com/86981990/192830995-e4704c30-732d-4221-bfbf-28a3fe74f5b2.png)
+
+
+
 
 
