@@ -21,7 +21,7 @@ Com o dashboard também é possível filtrar as informações por setor e ter um
 
 
 
-<h3 align="left"> 3) DashVendasLoja
+<h3 align="left"> 3) DashVendasLoja </h3>
 Dashboard de análise de vendas criado durante o treinamento da EmpowerData. 
 
 Com ele realizamos a análise de vendas de uma empresa de comércio de roupas e produtos de esporte., analisando a quantidade de vendas do período, faturamento ticket médio com a possibilidade de filtrar por item e por loja.
