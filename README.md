@@ -1,4 +1,4 @@
-# dashboardsBI
+# DashboardsBI
 Repositório com meus dashboards criados por meio do Power BI
 
 <h3 align="left"> 1) dashAnaliseVendasFaturamento </h3> 
